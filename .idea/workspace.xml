@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25e8eaca-1ce0-45cf-a667-f40f19d411e9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Specifications/sdf.spec" />
+        <option value="$PROJECT_DIR$/Specifications/Player turn when selection not empty" />
+        <option value="$PROJECT_DIR$/Specifications/Player turn when selection is empty" />
+        <option value="$PROJECT_DIR$/Determine Winner/StartGame.Spec" />
+        <option value="$PROJECT_DIR$/Specifications/Player turn when selection not empty.Spec" />
+        <option value="$PROJECT_DIR$/Specifications/Player turn when selection is empty.Spec" />
+        <option value="$PROJECT_DIR$/Specifications/DetermineEndgame.Spec" />
+        <option value="$PROJECT_DIR$/Specifications/IsTheGameOver.Spec" />
+        <option value="$PROJECT_DIR$/Specifications/Winner.Spec" />
+        <option value="$PROJECT_DIR$/Specifications/PlayerTurn.Spec" />
+        <option value="$PROJECT_DIR$/Specifications/StartGame.Spec" />
+        <option value="$PROJECT_DIR$/Specifications/DetermineNextAction.Spec" />
+        <option value="$PROJECT_DIR$/Specifications/DetermineWinner.Spec" />
+        <option value="$PROJECT_DIR$/Specifications/Gameplay/StartGame.Spec" />
+        <option value="$PROJECT_DIR$/Specifications/Gameplay/DetermineNextAction.Spec" />
+        <option value="$PROJECT_DIR$/Specifications/Gameplay/DetermineWinner.Spec" />
+        <option value="$PROJECT_DIR$/Specifications/Gameplay/PlayerTurn.Spec" />
+        <option value="$PROJECT_DIR$/Specifications/Gameplay.Spec" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="429" />
+    <option name="y" value="27" />
+    <option name="width" value="1335" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550543831283" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Groovy" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\amir\IdeaProjects\TicTacToe\Specifications\Level 2" />
+      <recent name="C:\Users\amir\IdeaProjects\TicTacToe\Specifications" />
+      <recent name="C:\Users\amir\IdeaProjects\TicTacToe" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\amir\IdeaProjects\TicTacToe\src" />
+      <recent name="C:\Users\amir\IdeaProjects\TicTacToe\Specifications" />
+      <recent name="C:\Users\amir\IdeaProjects\TicTacToe" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25e8eaca-1ce0-45cf-a667-f40f19d411e9" name="Default Changelist" comment="" />
+      <created>1550078841055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550078841055</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Move files around, update StartGame requirement">
+      <created>1550102623597</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1550102623597</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fix requirements, refactor detect End of Game, tighten requriements">
+      <created>1550105476256</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1550105476256</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fix requirements, refactor detect End of Game, tighten requriements">
+      <created>1550107861884</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1550107861884</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fix requirements, refactor detect End of Game, tighten requriements">
+      <created>1550107898818</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1550107898818</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fix requirements, refactor detect End of Game, tighten requriements">
+      <created>1550108075482</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1550108075482</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fix requirements, refactor detect End of Game, tighten requriements">
+      <created>1550108406117</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1550108406117</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fix requirements, refactor detect End of Game, tighten requriements">
+      <created>1550110023056</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1550110023056</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Spec bug - S -&gt; B">
+      <created>1550251759230</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1550251759230</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Spec bug - S -&gt; B">
+      <created>1550267957056</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1550267957056</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Created Gameplay subdir&#10;Merged start_game into player_turn and renamed that into Board_Update">
+      <created>1550279836841</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1550279836841</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="429" y="27" width="1335" height="1047" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2509804" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="GfmBrowser" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25746268" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="GfmBrowser" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Move files around, update StartGame requirement" />
+    <MESSAGE value="Fix requirements, refactor detect End of Game, tighten requriements" />
+    <MESSAGE value="Spec bug - S -&gt; B" />
+    <MESSAGE value="Created Gameplay subdir&#10;Merged start_game into player_turn and renamed that into Board_Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created Gameplay subdir&#10;Merged start_game into player_turn and renamed that into Board_Update" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Specifications/sdf.spec" />
+    <entry file="file://$PROJECT_DIR$/Determine Winner/Player turn when selection not empty" />
+    <entry file="file://$PROJECT_DIR$/Determine Winner/Player turn when selection is empty" />
+    <entry file="file://$PROJECT_DIR$/Specifications/Player turn when selection not empty.Spec" />
+    <entry file="file://$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
+    <entry file="file://$PROJECT_DIR$/Specifications/Gameplay/StartGame.Spec" />
+    <entry file="file://$PROJECT_DIR$/Specifications/Gameplay.Spec" />
+    <entry file="file://$PROJECT_DIR$/Specifications/Gameplay/Board Update.Spec" />
+    <entry file="file://$PROJECT_DIR$/Specifications/Gameplay/DetermineWinner.Spec" />
+    <entry file="file://$PROJECT_DIR$/Specifications/Gameplay/DetermineNextAction.Spec" />
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.7 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>TicTacToe</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>info.cukes:cucumber-html:0.2.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
